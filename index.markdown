@@ -6,6 +6,6 @@ layout: home
 ---
 
 
-{%for post in site.posts%}
+{% for post in site.posts %}
     {{post.title}} <br>
-{& endfor&}
+{% endfor %}
