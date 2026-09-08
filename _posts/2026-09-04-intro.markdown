@@ -1,0 +1,6 @@
+---
+layout: "post"
+permalink: "/test-test"
+---
+
+some content
